@@ -1,4 +1,4 @@
-I have automated few of the test cases using Selenium, Java, Rest-Assured, Cucumber BDD framework.
+I have automated few of the test cases using Java, Rest-Assured, Cucumber BDD framework.
 
 Please install java and maven in your system. This project should run on environment having JDK and maven installed.
 
