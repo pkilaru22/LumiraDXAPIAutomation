@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.014 sec <<< FAILURE! - in testRunner.TestRunner
+And the new category name should be displayed properly when GET operation is performed(Scenario: Verify if POST operation is successful for valid category name in the json payload)  Time elapsed: 0.005 sec  <<< FAILURE!
+org.junit.ComparisonFailure: Category name has not been posted correctly. Expected: xksnewyxvq but actual name is: ksnewyxvq expected:<[x]ksnewyxvq> but was:<[]ksnewyxvq>
+
+Scenario: Verify if POST operation is successful for valid category name in the json payload  Time elapsed: 0.006 sec  <<< FAILURE!
+org.junit.ComparisonFailure: Category name has not been posted correctly. Expected: xksnewyxvq but actual name is: ksnewyxvq expected:<[x]ksnewyxvq> but was:<[]ksnewyxvq>
+
